@@ -15,7 +15,7 @@ const Header = () => {
     <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-sm shadow-sm">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center py-4 md:py-6">
-          {/* Logo */}
+          {/* Logo for the page */}
           <Link href="/" className="flex items-center space-x-2">
             <div className="h-8 w-8 rounded-full bg-primary flex items-center justify-center">
               <Box className="h-5 w-5 text-white" />
